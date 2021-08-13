@@ -53,26 +53,26 @@ In order to help you be as effective as possible, I try to do the following thin
   * Positive feedback is important - so you know if there's something you're doing that's working well or need to do more of something
   * I'll be honest and upfront with constructive feedback about things that aren't working well or could be improved. 
   * I try my best to give timely feedback, so you can adjust quickly
-	 * If I'm doing my job properly, you shouldn’t be surprised in a performance review - it should largely be things we've already talked about. 
+  * If I'm doing my job properly, you shouldn’t be surprised in a performance review - it should largely be things we've already talked about. 
 * Give Context
   * Business context to help you connect the dots between the work you're doing and the business goals
-	 * I can provide insight into what’s coming up ahead - things you may not see or know about
+  * I can provide insight into what’s coming up ahead - things you may not see or know about
 * Be a Sounding Board
   * If you’re struggling with something, you can use me as a sounding board. 
   * I'm a good listener, and will likely ask probing questions.
   * Sometimes, people find the answer by the time they finish explaining something
-	 * Can be technical, professional, personal (note: I'm not a licensed therapist!)
+  * Can be technical, professional, personal (note: I'm not a licensed therapist!)
 * Provide Career Coaching
   * At some point, I will ask you to write a professional development plan
-	 * You own your career development, and can decide how much time/effort to invest
-	 * I can help you clarify and make your plan more actionable
+  * You own your career development, and can decide how much time/effort to invest
+  * I can help you clarify and make your plan more actionable
 * Remove Barriers
   * If you're running into organizational, process or (some) technical barriers, I might be able to help
 * Get Out of Your Way
   * I don’t pretend to be a better engineer than you (although I know a few things!)
- 	* I trust you to make good decisions, own your work (unless I have reason not to)
-	 * I may ask questions or challenge at times
-	 * I try very hard not to be a micro-manager, but I do expect good results
+  * I trust you to make good decisions, own your work (unless I have reason not to)
+  * I may ask questions or challenge at times
+  * I try very hard not to be a micro-manager, but I do expect good results
 
 # The Best Place We've Ever Worked&trade;
 One of my ultimate goals is to create the best work environment of our careers. That's an ambitious goal, but very worthwhile, in my opinion. I strive to do whatever I can to create that environment - for myself, for you, and for our team. 
