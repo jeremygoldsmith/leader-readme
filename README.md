@@ -76,3 +76,6 @@ In order to help you be as effective as possible, I try to do the following thin
 
 # The Best Place We've Ever Worked&trade;
 One of my ultimate goals is to create the best work environment of our careers. That's an ambitious goal, but very worthwhile, in my opinion. I strive to do whatever I can to create that environment - for myself, for you, and for our team. 
+
+# How Am I Doing?
+I also need feedback in order to learn what I'm doing well and where I need to improve. Honest feedback is really important in a leadership role, and actually really hard to get, especially from the people I oversee. So I'm giving you permission to give me feedback. Let me know what I'm doing well and areas where I can do better. I appreciate it, so thanks in advance!
