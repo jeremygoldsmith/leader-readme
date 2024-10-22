@@ -44,6 +44,9 @@ Here are some indicators I look for to know if those things are on track:
 
 There are several areas that I try to focus on - people, teams, projects, technology, product strategy, and organizational coordination - whew, that's a lot! I have to jump around a lot, but I end up investing a lot of my time coaching people and teams, with the goal of helping them become "high performing teams" so they can deliver a lot of value and be mostly autonomous. If I have high performing teams, that means I can multiply my impact. And having a big impact is what really motivates me.
 
+## The Triad
+At most modern companies, especially Software-as-a-Service companies, software engineering can't be successful in isolation. Great digital products and user experiences are built by having a close partnership of Product Management, Product Design and Engineering, aka "The Product Development Triad". I'm a strong believer in this partnership, and work hard to align myself with Product and Design leaders, and organize product development teams to follow suit. I like to identify our function in the company as Product Development (or ProdDev) instead of separate functions of Engineering and Product. We're better together and aligned.
+
 # What do I value most?
 Here are some of my core values as an engineering leader:
 
