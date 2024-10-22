@@ -144,7 +144,7 @@ If you are in my organization, but don't report directly to me, I like to have s
 
 
 # The Best Place We've Ever Worked&trade;
-One of my ultimate goals is to create the best work environment of our careers. Seriously. This isn't an empty slogan, I really believe that's something we can do if we work at it. It's an ambitious goal, but very worthwhile, in my opinion. I strive to do whatever I can to create that environment - for myself, for you, and for our team. Let's talk about how we can make this the best place we've ever worked.  
+One of my ultimate goals is to create the best work environment of our careers. Seriously. This isn't an empty slogan, I really believe that's something we can do if we work at it. To me, that means this is the place we worked harder, learned more, delivered more value, laughed more, challenged ourselves more, built the best relationships and teams, than anywhere else we've worked. It's an ambitious goal, but very worthwhile, in my opinion. I strive to do whatever I can to create that environment - for myself, for you, and for our team. Let's talk about how we can make this the best place we've ever worked.  
 
 # How Am I Doing?
 I also need feedback in order to learn what I'm doing well and where I need to improve. Honest feedback is really important in a leadership role, and actually really hard to get, especially from the people I oversee. So I'm giving you permission to give me feedback. Let me know what I'm doing well and areas where I can do better. I appreciate it, so thanks in advance!
