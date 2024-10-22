@@ -114,7 +114,7 @@ In order to help you be as effective as possible, I try to do the following thin
   * I try very hard not to be a micro-manager, but I do expect good results
 
 ## 1:1s
-I consider 1:1s very important, and try not to cancel them. 
+I consider 1:1s very important, and try not to miss or cancel them. You can always reach out for an impromtu 1:1 if you need to talk.
 
 ### For Direct Reports
 If you report directly to me, I prefer to have a 1:1 weekly or every other week. I like having a place for 1:1 topics that we can both populate ahead of time (if we think of them) in a shared doc or Slack canvas. 
@@ -140,7 +140,7 @@ From you:
 [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c)
 
 ### Skip-Level 1:1s
-If you are in my organization, but don't report directly to me, I like to have skip-level 1:1s. This is a chance for me to learn about what's going on at the ground level of the organization, get feedback about your manager, team or project, provide some guidance or coaching if I can, and hopefully give additional context about the business direction and strategy. Ideally I can help you connect the dots between the work you're doing day-to-day and the longer-term company strategy. I also enjoy getting to know people.
+If you are in my organization, but don't report directly to me, I like to have skip-level 1:1s. This is a chance for me to learn about what's going on at the ground level of the organization, get feedback about your manager, team or project, provide some guidance or coaching if I can, answer your questions and hopefully give additional context about the business direction and strategy. Ideally I can help you connect the dots between the work you're doing day-to-day and the longer-term company strategy. I also enjoy getting to know people. I try to schedule skip-level 1:1s with as many people as I can, and also encourage you to reach out and schedule a skip-level 1:1 with me. 
 
 
 # The Best Place We've Ever Worked&trade;
